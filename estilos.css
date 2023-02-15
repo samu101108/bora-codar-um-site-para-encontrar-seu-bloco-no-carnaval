@@ -1,0 +1,30 @@
+body {
+  color: #121214;
+}
+
+.text-primary {
+  color: #6246ea !important;
+}
+
+.text-danger {
+  color: #e45858 !important;
+}
+
+.fs-1 {
+  font-size: 3rem !important;
+}
+
+.hero {
+  height: 532px;
+  background: url(images/ilustra-01.png) top left no-repeat, url(images/ilustra-02.png) bottom right no-repeat;
+  background-color: #F8F8FF;
+  background-size: 407px, 414px;
+}
+
+.border-secondary {
+  border-color: #EAEAEA !important;
+}
+
+.container-xxl {
+  max-width: 1440px;
+}
